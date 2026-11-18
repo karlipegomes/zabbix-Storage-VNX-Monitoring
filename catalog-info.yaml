@@ -8,6 +8,7 @@ metadata:
   description: "zabbix-Storage-VNX-Monitoring (karlipegomes)"
   annotations:
     github.com/project-slug: karlipegomes/zabbix-Storage-VNX-Monitoring
+  tags: [zabbix, python, shell, emc-vnx]
   links:
     - url: https://github.com/karlipegomes/zabbix-Storage-VNX-Monitoring
       title: Repository
@@ -24,7 +25,7 @@ metadata:
   description: "zabbix-Storage-VNX-Monitoring (karlipegomes)"
   annotations:
     github.com/project-slug: karlipegomes/zabbix-Storage-VNX-Monitoring
-  tags: [python]
+  tags: [python, zabbix]
 spec:
   type: tool
   lifecycle: deprecated
